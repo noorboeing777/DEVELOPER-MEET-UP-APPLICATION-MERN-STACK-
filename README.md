@@ -1,4 +1,5 @@
 # DEVELOPER-MEET-UP-APPLICATION-MERN-STACK-
+This is my person project using MERN STACK
 
 I have developed this applicaiton using MERN STACK
 MERN STACK means Mongodb, Express, React and node
